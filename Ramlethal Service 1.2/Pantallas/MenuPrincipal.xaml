@@ -1,0 +1,30 @@
+﻿<Window x:Class="Ramlethal_Service_1._2.Pantallas.MenuPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ramlethal_Service_1._2.Pantallas"
+        mc:Ignorable="d"
+        Title="MenuPrincipal" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+       >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="897*"/>
+            <ColumnDefinition Width="103*"/>
+        </Grid.ColumnDefinitions>
+
+        <Frame x:Name="Frame_App" Content="" Margin="122,57,15,10" Navigated="Frame_Navigated" Grid.ColumnSpan="2"/>
+        <Button Content="Menu" HorizontalAlignment="Left" Margin="3,75,0,0" VerticalAlignment="Top" Width="114" Height="30"/>
+        <Button Content="Gestion de Tickets" HorizontalAlignment="Left" Margin="3,110,0,0" VerticalAlignment="Top" Height="30" Width="114" Click="Button_Click_2"/>
+        <Button Content="Levantar ticket" HorizontalAlignment="Left" Margin="3,145,0,0" VerticalAlignment="Top" Width="114" Height="30" Click="Button_Click_1"/>
+        <Button Content="Cerrar sesion " HorizontalAlignment="Left" Margin="3,372,0,0" VerticalAlignment="Top" Width="114" Height="30" Click="Button_Click"/>
+        <Button Content="Configuracion" HorizontalAlignment="Left" Margin="3,180,0,0" VerticalAlignment="Top" Width="114" Height="30" Click="Button_Click_3"/>
+        <Label Content="Version 1.2" HorizontalAlignment="Left" Margin="3,346,0,0" VerticalAlignment="Top"/>
+        <Image Margin="3,4,723,514" Source="/Pantallas/Captura de pantalla 2024-06-01 000332.png" Stretch="Fill"/>
+    </Grid>
+
+
+</Window>

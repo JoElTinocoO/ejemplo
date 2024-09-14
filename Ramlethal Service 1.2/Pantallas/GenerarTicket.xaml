@@ -1,0 +1,24 @@
+﻿<Page x:Class="Ramlethal_Service_1._2.Pantallas.GenerarTicket"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Ramlethal_Service_1._2.Pantallas"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="GenerarTicket">
+
+    <Grid>
+        <Border Background="DarkGray" CornerRadius="12"/>
+        <Label Content="Descripción del problema:" HorizontalAlignment="Center" Margin="0,137,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDescripcionProblema" HorizontalAlignment="Center" Height="117" Margin="0,163,0,0" VerticalAlignment="Top" Width="780" TextWrapping="Wrap" AcceptsReturn="True" TextChanged="txtDescripcionProblema_TextChanged"/>
+
+        <Button x:Name="btnCrearArchivo" Content="Enviar reporte" HorizontalAlignment="Center" Margin="0,298,0,0" VerticalAlignment="Top" Width="136" Click="btnCrearArchivo_Click" Height="43"/>
+        <TextBox x:Name="tbx_nombreproblema" HorizontalAlignment="Left" Height="27" Margin="298,105,0,0" VerticalAlignment="Top" Width="208" TextChanged="txtFecha_Copy_TextChanged"/>
+        <Label Content="Problema" HorizontalAlignment="Left" Margin="369,72,0,0" VerticalAlignment="Top" Width="66" Height="24" FontWeight="Bold" Background="White"/>
+        <Label Content="Información" HorizontalAlignment="Left" Margin="365,40,0,0" VerticalAlignment="Top" Width="80" Height="27" FontWeight="Bold"/>
+        <Label Content="Levantar ticket" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FFF1F1F1" FontSize="22" FontWeight="Bold" FontFamily="Georgia" Margin="0,12,0,0"/>
+
+
+    </Grid>
+</Page>

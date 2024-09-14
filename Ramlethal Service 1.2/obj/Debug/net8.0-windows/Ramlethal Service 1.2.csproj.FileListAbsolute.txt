@@ -1,0 +1,80 @@
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.csproj.AssemblyReference.cache
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\Configuracion.g.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\GenerarTicket.g.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\MenuPrincipal.g.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\RegistroUsuarios.g.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\TicketsGestion.g.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2_MarkupCompile.cache
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2_MarkupCompile.lref
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.exe
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.dll.config
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.deps.json
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.runtimeconfig.json
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.pdb
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Mindbox.Data.Linq.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\Configuracion.baml
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\GenerarTicket.baml
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\MenuPrincipal.baml
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\RegistroUsuarios.baml
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\TicketsGestion.baml
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.g.resources
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.AssemblyInfo.cs
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramletha.52308018.Up2Date
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\refint\Ramlethal Service 1.2.dll
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.pdb
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.genruntimeconfig.cache
+C:\Users\win11\source\repos\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\ref\Ramlethal Service 1.2.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.exe
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.dll.config
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.deps.json
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Ramlethal Service 1.2.pdb
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\Mindbox.Data.Linq.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\Configuracion.g.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\GenerarTicket.g.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\MenuPrincipal.g.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\RegistroUsuarios.g.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\TicketsGestion.g.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2_MarkupCompile.cache
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2_MarkupCompile.lref
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\Configuracion.baml
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\GenerarTicket.baml
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\MenuPrincipal.baml
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\RegistroUsuarios.baml
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Pantallas\TicketsGestion.baml
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.g.resources
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramletha.52308018.Up2Date
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\refint\Ramlethal Service 1.2.dll
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.pdb
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\Ramlethal Service 1.2.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\desarrollo empres\Ramlethal Service 1.2\Ramlethal Service 1.2\obj\Debug\net8.0-windows\ref\Ramlethal Service 1.2.dll

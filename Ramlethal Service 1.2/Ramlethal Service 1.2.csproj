@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ramlethal_Service_1._2</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Captura de pantalla 2024-06-01 000005.png" />
+    <None Remove="Pantallas\Captura de pantalla 2024-06-01 000332.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="netstandard-System.Data.Linq" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Captura de pantalla 2024-06-01 000005.png" />
+    <Resource Include="Pantallas\Captura de pantalla 2024-06-01 000332.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DatosUsuarioSQL.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DatosUsuarioSQL.designer.cs</LastGenOutput>
+    </None>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{3259aa49-8aa1-44d3-9025-a0b520596a8c}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DatosUsuarioSQL.designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DatosUsuarioSQL.dbml</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>

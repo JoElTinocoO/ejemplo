@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DatosUsuarioSQL">
+  <DataContextMoniker Name="/DatosUsuarioSQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="d2283536-679b-4836-a7f4-a183bbecab9b" absoluteBounds="3.875, 1.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DatosUsuarioSQLDataContext/Reportes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="917ed599-4daf-415b-bae5-b009d533faa7" absoluteBounds="3.8899999999999997, 2.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4c6a6c9-3915-4f4e-94ad-b5ab9cf84d92" absoluteBounds="8.125, 1.375, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DatosUsuarioSQLDataContext/Usuarios" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e5fdf1a-5ca4-4c2e-8b9e-54d09f014652" absoluteBounds="8.14, 1.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="308c7fce-7de4-4358-a6e9-bc339405d86e" absoluteBounds="8.125, 4.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DatosUsuarioSQLDataContext/Tickets" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aed27fad-996e-4d9e-8339-e2fcda7fb2f0" absoluteBounds="8.14, 5.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="Ramlethal_Service_1._2.Pantallas.RegistroUsuarios"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ramlethal_Service_1._2.Pantallas"
+        mc:Ignorable="d"
+        Title="RegistroUsuarios" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid x:Name="tbc_registronombreusuario">
+        <Image Margin="383,45,33,135" Source="/Captura de pantalla 2024-06-01 000005.png" Stretch="Fill"/>
+        <Button x:Name="btn_registrousuario" Content="Registrarse" HorizontalAlignment="Left" Margin="146,315,0,0" VerticalAlignment="Top" Height="41" Width="101" Click="btn_registrousuario_Click"/>
+        <Button x:Name="Bnt_regresomenuregistro" Content="¿Ya tienes cuenta? Inicia sesion" HorizontalAlignment="Left" Margin="486,337,0,0" VerticalAlignment="Top" Width="178" Height="38" Background="{x:Null}" BorderBrush="{x:Null}" FontFamily="Georgia" Click="Bnt_regresomenuregistro_Click"/>
+        <TextBox x:Name="tbx_registronombre" HorizontalAlignment="Left" Margin="94,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" Height="35" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="tbx_registrocorreo" HorizontalAlignment="Left" Margin="94,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" Height="36"/>
+        <TextBox x:Name="tbx_confirmarcontrasena" HorizontalAlignment="Left" Margin="96,264,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" Height="35"/>
+        <Label Content="Crea tu cuenta" HorizontalAlignment="Left" Margin="120,32,0,0" VerticalAlignment="Top" FontFamily="Goudy Old Style" FontSize="24" FontWeight="Bold"/>
+        <Label Content="ingresa tu Correo" HorizontalAlignment="Left" Margin="146,148,0,0" VerticalAlignment="Top" FontFamily="Georgia"/>
+        <Label Content="Crea tu contraseña" HorizontalAlignment="Left" Margin="142,231,0,0" VerticalAlignment="Top" FontFamily="Georgia"/>
+        <Label Content="Ingresa tu Nombre" HorizontalAlignment="Left" Margin="139,76,0,0" VerticalAlignment="Top" FontFamily="Georgia"/>
+
+    </Grid>
+</Window>
